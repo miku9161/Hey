@@ -1,8 +1,9 @@
 // A naive recursive C++ implementation
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// Returns value of Binomial Coefficient C(n, k)
+// Returns value of Binomial Coefficient C (n, k)
 int binomialCoeff(int n, int k)
 {
 	// Base Cases
@@ -25,4 +26,4 @@ int main()
 	return 0;
 }
 
-
+// End of the program
